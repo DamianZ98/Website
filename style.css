@@ -1,13 +1,22 @@
+.writer-img {
+  width: 150px;
+  height: 150px;
+  float: left;
+}
+
 body {
-    background-color:  whitesmoke;
-  }
-  
-  h1 {
-    color: white;
-    text-align: center;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
+  background-color:darkgray;
+}
+
+* {
+  text-align: center;
+}
+
+p {
+  font-family:Arial;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: black;
+  color: white;
+  margin-left: 50px;
+}
