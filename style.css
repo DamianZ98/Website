@@ -1,11 +1,10 @@
 .writer-img {
   width: 150px;
   height: 150px;
-  float: left;
 }
 
 body {
-  background-color:darkgray;
+  background-color:lightskyblue;
 }
 
 * {
@@ -16,7 +15,9 @@ p {
   font-family:Arial;
   font-size: 18px;
   font-weight: bold;
-  background-color: black;
-  color: white;
-  margin-left: 50px;
+  background-color: white;
+  color: black;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin
 }
